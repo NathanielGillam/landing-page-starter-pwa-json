@@ -1,8 +1,18 @@
 /* Have fun. This is your site. */
 
-body {
-  background: lightgray;
+/* styles.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url('bg-426b328.jpg') no-repeat center center fixed;
+  background-size: cover;
 }
+
 
 /* Main Container */
 main {
@@ -12,5 +22,18 @@ main {
   
   /* adjust to your design */
   max-width: 40em;
+}
 
+
+.full-screen-image {
+  background-image: url('/p:/Documents/Personal/CSCD378/landing-page-starter-pwa-json/bg-426b328.jpg');
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
 }
