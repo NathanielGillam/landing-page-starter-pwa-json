@@ -1,12 +1,20 @@
 {
-"myLinks": [
-    {
-    "name": "GitHub",
-    "url": "https://github.com/nathanielgillam"
-    },
-    {
-    "name": "CodePen",
-    "url": "https://codepen.io/nathanielgillam"
+    "myLinks": [
+        {
+        "name": "GitHub",
+        "url": "https://github.com/nathanielgillam"
+        },
+        {
+        "name": "CodePen",
+        "url": "https://codepen.io/nathanielgillam"
+        },
+        {
+        "name": "Portfolio",
+        "url": "https://nathanielgillam.netlify.app/"
+        },
+        {
+        "name": "Blog",
+        "url": "https://nathanielsblog.netlify.app/"
+        }
+        ]
     }
-    ]
-}
